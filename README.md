@@ -1,4 +1,4 @@
-# HL2DM-Community-Patch-Config
+# HL2DM Community Patch Config
 An optimised collection of tweaks and fixes for Half-Life 2: Deathmatch multiplayer. 
 
 This is a project originally created by Xeogin, as part of (Deathmatch Core Redux)[https://github.com/Xeogin/xeogin.github.io]. However, this focuses on the game as a client, not as a server.
