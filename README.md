@@ -1,7 +1,7 @@
 # HL2DM Community Patch Config
-An optimised collection of tweaks and fixes for Half-Life 2: Deathmatch multiplayer. 
+A collection of optimisation, gameplay tweaks, and config fixes for Half-Life 2: Deathmatch. 
 
-This is a project originally created by Xeogin, as part of [Deathmatch Core Redux](https://github.com/Xeogin/xeogin.github.io). However, this focuses on the game as a client, not as a server.
+This was originally part of the [Deathmatch Core Redux](https://github.com/Xeogin/xeogin.github.io) GitHub by Xeogin. This reposity was made to split the client (player-related) files away from the server related ones.
 
 ## Installation instructions
 Drag and drop this into your Half-Life 2: Deathmatch configuration direction; by default `C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2 Deathmatch\hl2mp\cfg`
