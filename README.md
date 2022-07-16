@@ -14,3 +14,6 @@ Drag and drop this into your Half-Life 2: Deathmatch configuration direction; by
 ### Examples of overrides.cfg:
 * [Xeogin's](https://github.com/Xeogin/xeogin.github.io/blob/master/overrides.cfg)
 * [CLANG-CLANG's](https://github.com/ClangClangBattarang/ClangClang-HL2DM-Config/blob/main/Half-Life%202%20Deathmatch/hl2mp/cfg/overrides.cfg)
+
+## Further Customisation
+More customisation settings and suggestions are found on in this reposity's [Wiki](https://github.com/ClangClangBattarang/HL2DM-Community-Patch-Config/wiki).
