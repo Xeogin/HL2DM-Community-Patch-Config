@@ -4,7 +4,7 @@ A collection of optimisation, gameplay tweaks, and config fixes for Half-Life 2:
 This was originally part of the [Deathmatch Core Redux](https://github.com/Xeogin/xeogin.github.io) project by Xeogin. This reposity was made to split the client (player-related) files away from the server-related ones, making it easier to understand for users.
 
 ## Installation instructions
-Drag and drop this into your Half-Life 2: Deathmatch configuration direction; by default `C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2 Deathmatch\hl2mp\cfg`
+Drag and drop this into your Half-Life 2: Deathmatch directory; by default `C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2 Deathmatch\`
 
 ## Changing Settings
 `autoexec.cfg` - The only time you should touch this is to update the Community Patch. This is the first config file the game loads. 
